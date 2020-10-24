@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Frontend-Pagination-React/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Frontend-Pagination-React/static/js/main.dab05e06.chunk.js",
+    "main.js.map": "/Frontend-Pagination-React/static/js/main.dab05e06.chunk.js.map",
+    "runtime-main.js": "/Frontend-Pagination-React/static/js/runtime-main.dad26f70.js",
+    "runtime-main.js.map": "/Frontend-Pagination-React/static/js/runtime-main.dad26f70.js.map",
+    "static/js/2.0309f29f.chunk.js": "/Frontend-Pagination-React/static/js/2.0309f29f.chunk.js",
+    "static/js/2.0309f29f.chunk.js.map": "/Frontend-Pagination-React/static/js/2.0309f29f.chunk.js.map",
+    "index.html": "/Frontend-Pagination-React/index.html",
+    "precache-manifest.b0f2bbfff15a9e2ef3c6bc7e5c5ec801.js": "/Frontend-Pagination-React/precache-manifest.b0f2bbfff15a9e2ef3c6bc7e5c5ec801.js",
+    "service-worker.js": "/Frontend-Pagination-React/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Frontend-Pagination-React/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0309f29f.chunk.js.LICENSE.txt": "/Frontend-Pagination-React/static/js/2.0309f29f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad26f70.js",
+    "static/js/2.0309f29f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dab05e06.chunk.js"
+  ]
+}
